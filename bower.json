@@ -1,0 +1,17 @@
+{
+  "name": "instamotor",
+  "homepage": "https://github.com/jithinbalakrishnan/instamotor",
+  "authors": [
+    "jithinbalakrishnan <jithinbalakrishnan00@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

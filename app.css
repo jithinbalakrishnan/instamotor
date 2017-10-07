@@ -5,12 +5,11 @@ body {
 }
 a:link {
     text-decoration: none;
-
 }
 
 
 .navbar-wrapper {
-    padding: 0px 15px;
+    padding: 0 15px;
     border-bottom: 1px solid #eee;
     line-height: 50px;
     vertical-align: middle;
